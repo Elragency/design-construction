@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="37" viewBox="0 0 130 37">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 23px;
+        text-anchor: middle;
+        font-family: "911 Porscha Bold";
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        fill: #ff3c00;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <text id="PAVAGE" class="cls-1" x="64.404" y="18.164"><tspan x="64.404">PAVAGE</tspan></text>
+  <text id="Jonathan" class="cls-2" transform="translate(64.624 29.332) scale(0.634)"><tspan x="0">Jonathan</tspan></text>
+</svg>
